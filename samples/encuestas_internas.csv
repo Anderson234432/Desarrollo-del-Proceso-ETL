@@ -1,0 +1,4 @@
+IdEncuesta,IdCliente,IdProducto,Fecha,PuntajeSatisfaccion,Comentario
+ENC-001,CLI-101,PRD-501,2026-11-10,5,Excelente calidad y entrega puntual
+ENC-002,CLI-102,PRD-502,2026-11-11,4,Buen producto aunque el empaque puede mejorar
+ENC-003,CLI-103,PRD-501,2026-11-12,3,Cumple su funcion pero tardo en llegar
